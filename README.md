@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaminskaoliwia&radius=03&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=false&custom_title=My%20contributions" height="250" alt="activity-graph graph"  />
 </div>
 
