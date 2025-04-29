@@ -2,8 +2,10 @@
 
 ###
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/87b49e1d-947b-4386-af64-e1e42bb61ddf" alt="python" width="50" height="40"/> </a> 
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/87b49e1d-947b-4386-af64-e1e42bb61ddf" alt="rstudio" width="50" height="40"/> </a> 
+   <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/418c1b7a-992a-48bb-beec-7e97e0d20047" alt="jupyter" width="40" height="40"/> </a> 
 </p> 
+
 
 ###
 <p
