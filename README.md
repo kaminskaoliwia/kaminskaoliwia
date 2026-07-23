@@ -11,16 +11,4 @@
 </p> 
 
 ###
-<p>
-<img align="right" width = "200" height = "200" src="https://github.com/user-attachments/assets/f787ca5d-ca71-43e6-8136-d77f12034c85">
-</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/kamen2">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kamen2&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<img width="200" height="200" src="https://github.com/user-attachments/assets/f787ca5d-ca71-43e6-8136-d77f12034c85" style="display: block; margin: 0 auto;">
